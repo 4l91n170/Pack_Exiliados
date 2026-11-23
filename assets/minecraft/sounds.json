@@ -3,5 +3,50 @@
     "sounds": [
       "muertes/muerte"
     ]
+  },
+
+  "muerte.andres": {
+    "sounds": [
+      "muertes/andres"
+    ]
+  },
+  "muerte.arely": {
+    "sounds": [
+      "muertes/arely"
+    ]
+  },
+  "muerte.daniel": {
+    "sounds": [
+      "muertes/daniel"
+    ]
+  },
+  "muerte.nicolas": {
+    "sounds": [
+      "muertes/nicolas"
+    ]
+  },
+  "muerte.nicop": {
+    "sounds": [
+      "muertes/nicop"
+    ]
+  },
+
+  "muerte.nixon": {
+    "sounds": [
+      "muertes/nixon"
+    ]
+  },
+
+  "muerte.pato": {
+    "sounds": [
+      "muertes/pato"
+    ]
+  },
+
+  "muerte.steven": {
+    "sounds": [
+      "muertes/steven"
+    ]
   }
+
 }
