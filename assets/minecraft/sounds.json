@@ -47,6 +47,11 @@
     "sounds": [
       "muertes/steven"
     ]
+  },
+
+  "entity.player.death": {
+    "replace": true,
+    "sounds": []
   }
 
 }
